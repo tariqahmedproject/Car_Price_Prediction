@@ -17,4 +17,6 @@ Year of Manufacture
 Informed Car Buying Decisions: Potential car buyers can leverage the model to estimate market prices for similar vehicles, making more informed purchasing choices.
 Used Car Market Insights: By analyzing how different features influence car prices, the model can provide insights into trends and fluctuations in the used car market.
 
+![](https://github.com/tariqahmedproject/Car_Price_Prediction/blob/main/car%20price%20predict.JPG)
+
 I hope this enhanced response effectively guides you in creating an informative and engaging GitHub repository description for your Car Price Prediction project!
